@@ -1,0 +1,13 @@
+#pip installed packages:
+numpy
+pandas
+keras
+scikit-learn
+matplotlib
+transformers
+transformers[sentencepiece]
+datasets
+sacrebleu 
+rouge_score
+tqdm
+nltk
