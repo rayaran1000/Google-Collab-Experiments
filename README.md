@@ -1,4 +1,4 @@
-# HF-Model-Experiments
+# Google Collab Experiments
 
 #### Contains the google collab file runs for experimentation
 
