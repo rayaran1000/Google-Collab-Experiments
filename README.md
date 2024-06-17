@@ -17,3 +17,8 @@
 - Model checkpoint - "distilbert/distilbert-base-uncased  
 - Tokenizer - "distilbert/distilbert-base-uncased"
 - Dataset - Arsive/toxicity_classification_jigsaw
+
+## 4.  Exoplanet Chatbot(Google Gemini Model)
+- Model checkpoint - "google/gemma-2b-it"
+- Tokenizer - "google/gemma-2b-it"
+- Dataset - NASA Public Archive Dataset for Exoplanets discovered
